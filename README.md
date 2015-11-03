@@ -1,5 +1,5 @@
 # haxe-mergesort
-MergeSort made in haXe plus simple graphical representation made with [Haxeflixel](https://github.com/HaxeFlixel/flixel) framework.
+MergeSort made in [Haxe](http://haxe.org/) plus simple graphical representation made with [Haxeflixel](https://github.com/HaxeFlixel/flixel) framework.
 
 For learning purposes.
 
